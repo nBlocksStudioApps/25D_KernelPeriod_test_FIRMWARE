@@ -1,0 +1,208 @@
+[
+    {
+        "module": "[fill]",
+        "size": {
+            ".text": 622,
+            ".data": 4,
+            ".bss": 31,
+            ".text-delta": 622,
+            ".data-delta": 4,
+            ".bss-delta": 31
+        }
+    },
+    {
+        "module": "[lib]\\c.a",
+        "size": {
+            ".text": 31564,
+            ".data": 2472,
+            ".bss": 89,
+            ".text-delta": 31564,
+            ".data-delta": 2472,
+            ".bss-delta": 89
+        }
+    },
+    {
+        "module": "[lib]\\gcc.a",
+        "size": {
+            ".text": 7804,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 7804,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\misc",
+        "size": {
+            ".text": 180,
+            ".data": 4,
+            ".bss": 28,
+            ".text-delta": 180,
+            ".data-delta": 4,
+            ".bss-delta": 28
+        }
+    },
+    {
+        "module": "[lib]\\nosys.a",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 32,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\stdc++.a",
+        "size": {
+            ".text": 4664,
+            ".data": 8,
+            ".bss": 44,
+            ".text-delta": 4664,
+            ".data-delta": 8,
+            ".bss-delta": 44
+        }
+    },
+    {
+        "module": "main.o",
+        "size": {
+            ".text": 540,
+            ".data": 0,
+            ".bss": 1436,
+            ".text-delta": 540,
+            ".data-delta": 0,
+            ".bss-delta": 1436
+        }
+    },
+    {
+        "module": "mbed-os\\drivers",
+        "size": {
+            ".text": 3640,
+            ".data": 0,
+            ".bss": 12,
+            ".text-delta": 3640,
+            ".data-delta": 0,
+            ".bss-delta": 12
+        }
+    },
+    {
+        "module": "mbed-os\\hal",
+        "size": {
+            ".text": 2088,
+            ".data": 4,
+            ".bss": 67,
+            ".text-delta": 2088,
+            ".data-delta": 4,
+            ".bss-delta": 67
+        }
+    },
+    {
+        "module": "mbed-os\\platform",
+        "size": {
+            ".text": 5712,
+            ".data": 260,
+            ".bss": 364,
+            ".text-delta": 5712,
+            ".data-delta": 260,
+            ".bss-delta": 364
+        }
+    },
+    {
+        "module": "mbed-os\\targets",
+        "size": {
+            ".text": 4518,
+            ".data": 4,
+            ".bss": 437,
+            ".text-delta": 4518,
+            ".data-delta": 4,
+            ".bss-delta": 437
+        }
+    },
+    {
+        "module": "nlib\\KernelPeriod",
+        "size": {
+            ".text": 44,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 44,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\OLEDisplay",
+        "size": {
+            ".text": 2132,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 2132,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\StringFormat",
+        "size": {
+            ".text": 220,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 220,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\StringSerial",
+        "size": {
+            ".text": 186,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 186,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\Ticker",
+        "size": {
+            ".text": 318,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 318,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\USonicEcho",
+        "size": {
+            ".text": 596,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 596,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "nlib\\nworkbench.o",
+        "size": {
+            ".text": 660,
+            ".data": 12,
+            ".bss": 88,
+            ".text-delta": 660,
+            ".data-delta": 12,
+            ".bss-delta": 88
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 5364,
+            "static_ram_delta": 5364,
+            "total_flash": 68288,
+            "total_flash_delta": 68288
+        }
+    }
+]
