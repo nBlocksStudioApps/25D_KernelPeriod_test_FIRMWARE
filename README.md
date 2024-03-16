@@ -7,7 +7,7 @@ src="img/01.PNG"
 width = 800
 />
 
-This nBlocksStudio project was created automatically from a Schematic Design.  It is testing the new Kernel version `[a14d29e]` [kernel data broadcast, fixed designs without connections](https://github.com/nblocksStudio/nBlocksStudioKernel ), in a Design that displays the Ultrasonic measured distance to an OLED-display and a PC serial terminal 
+This nBlocksStudio project was created automatically from a Schematic Design.  It is testing the new Kernel version `[a14d29e]` [nBlocksStudio Kernel](https://github.com/nblocksStudio/nBlocksStudioKernel ), in a Design that displays the Ultrasonic measured distance to an OLED-display and a PC serial terminal 
 
 
 The 'normal' kernel tick period is  0.001 sec. Here the Node `KernelPeriod` set it up to periods from 100us to 1.0s to confirm the system operates properly.
